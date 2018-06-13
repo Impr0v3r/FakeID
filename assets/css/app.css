@@ -14710,7 +14710,7 @@ footer ul li a {
   height: 30px;
   margin-right: 10px;
   margin-top: 10px;
-  background: url("../images/pplogo.png") 50% 50%/30px no-repeat;
+  background: url("/pplogo.png") 50% 50%/30px no-repeat;
   float: left;
 }
 
