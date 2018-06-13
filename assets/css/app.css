@@ -12978,7 +12978,7 @@ video::-webkit-media-text-track-display {
 }
 
 body {
-  background: url("../images/bg.png");
+  background: url("/bg.png");
   padding-bottom: 30px;
   font-family: 'Share', cursive;
 }
